@@ -5,5 +5,6 @@ void main ( void )
 
     for ( u8Cnt = 0; u8Cnt < 100; u8Cnt++ )
     {
+        ;
     }
 }
