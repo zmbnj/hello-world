@@ -8,5 +8,6 @@ void main ( void )
           u8Cnt++
         )
     {
+        ;
     }
 }
